@@ -1,7 +1,7 @@
 # wordsearchpuzzle_py3
 word-search-puzzle-generator-python3
 
-This is a work-in-progress to create a simple wordsearch generator in python 3.
+This is a work-in-progress to create a simple word search puzzle generator in python 3.
 
 1. Create a puzzle grid (width, height)
 2. Set how much of the grid should be taken up by the words (make_up_total).
