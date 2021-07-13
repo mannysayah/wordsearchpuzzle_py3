@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# 2018 Manny Sayah - Victoria University of Wellington
+# 2018 Manny Sayah - dataismore.com
 
 import random
 import string
